@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+
+    <string name="kalbir">Kali Biru adalah kawasan hutan lindung yang juga menjadi lokasi berkembangbiak burung-burung langka lainnya.
+        Objek ini terletak di Berab, Nimbokrang, Jayapura, Papua dan sering disebut Kali Biru atau Kali Biru Genyem</string>
+    <string name="baseg">Pantai Base G atau juga dikenal sebagai Tanjung Ria terletak disebelah utara Kota Jayapura, Papua.
+        Pantai Base G berlokasi sekitar 10 km dari Kota Jayapura di Distrik Jayapura Utara.</string>
+    <string name="hol2">Pantai Pasir 2 Holtekamps menjadi jujukan baru wisata bagi masyarakat Jayapura, Papua, yang ingin merasakan keindahan dan keasrian alam pesisir yang masih alami.
+        Terletak tak jauh dari Pantai Holtekamp dan hanya dibatasi bukit besar, Pantai Pasir 2 yang berlokasi di Muara Tami,
+        Kota Jayapura, terlihat banyak dikunjungi pelancong, Minggu.</string>
+    <string name="jemer">Jembatan merah atau jembatan Youtefa menjadi tempat favorit warga Jayapura untuk menyaksikan sunset. Anak-anak, muda-mudi, keluarga,
+        tidak mengenal usia asyik duduk-duduk di tepi jembatan itu.</string>
+    <string name="raja">Kepulauan Raja Ampat berada di bagian paling barat Papua dan membentang di area seluas 4,6 juta hektar. Kabupaten Raja Ampat terdiri dari 4 pulau besar, yaitu Pulau Waigeo, Pulau Batanta, Pulau Salawati, dan Pulau Misool. Wisata Raja Ampat semakin lengkap dengan kehadiran pulau-pulau kecil lainnya yang tak kalah memesona,
+        setidaknya ada sekitar 1.847 pulau kecil yang masuk ke dalam wisata Raja Ampat.</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621647815553",
+    "project_id": "loginapplication-8ebdb",
+    "storage_bucket": "loginapplication-8ebdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621647815553:android:b106cd6ed6381d2c087e80",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNEdr0JewYKsiawPS9l8yZRNT13ZPMEBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
